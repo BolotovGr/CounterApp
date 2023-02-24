@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  CounterApp
 //
-//  Created by Григорий Болотов  on 24.02.2023.
+// Григорий Болотов  on 24.02.2023.
 //
 
 import UIKit
